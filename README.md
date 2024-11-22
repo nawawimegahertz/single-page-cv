@@ -26,5 +26,5 @@ Designed for noob developers looking for a clean, professional, and easy-to-cust
 .
 ├── index.html         # Main HTML file for the CV
 ├── favicon.ico        # Favicon for the CV
-├── README.md          # Stylish documentation
-└── assets/            # Directory for additional assets (images, icons, etc.)
+├── README.md          # Documentation
+└── assets/            # Directory for additional assets soon (images, icons, etc.)
